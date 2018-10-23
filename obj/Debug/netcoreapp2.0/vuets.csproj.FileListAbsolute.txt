@@ -1,0 +1,11 @@
+C:\Koulutus\Vue\vuets\bin\Debug\netcoreapp2.0\vuets.deps.json
+C:\Koulutus\Vue\vuets\bin\Debug\netcoreapp2.0\vuets.runtimeconfig.json
+C:\Koulutus\Vue\vuets\bin\Debug\netcoreapp2.0\vuets.runtimeconfig.dev.json
+C:\Koulutus\Vue\vuets\bin\Debug\netcoreapp2.0\vuets.dll
+C:\Koulutus\Vue\vuets\bin\Debug\netcoreapp2.0\vuets.pdb
+C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.csprojAssemblyReference.cache
+C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.csproj.CoreCompileInputs.cache
+C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.AssemblyInfoInputs.cache
+C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.AssemblyInfo.cs
+C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.dll
+C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.pdb
