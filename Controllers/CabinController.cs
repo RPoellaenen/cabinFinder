@@ -34,7 +34,7 @@ namespace vuets.Controllers
         [HttpPost]
         public void Post([FromBody]Cabin cabin)
         {
-            cabin.ID = new Guid();
+            cabin.ID = Guid.NewGuid();
             var db = new DataManager();
             db.Save(cabin);
         }
