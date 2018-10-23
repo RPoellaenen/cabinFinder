@@ -4,12 +4,12 @@
             <label for="cottageName">
                 Name for the cottage
             </label>
-            <input id="cottageName" type="text" />
+            <input id="cottageName" type="text" v-model="cabin.name"/>
 
             <label for="cottageLocation">
                 Location of the cottage
             </label>
-            <input id="cottageLocation" type="text" />
+            <input id="cottageLocation" type="text" v-model="cabin.address"/>
 
             <label for="cottageSize">
                 Size of the cottage
