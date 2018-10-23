@@ -14,11 +14,11 @@ namespace vuets.Controllers
     {
         // GET: api/Cabin
         [HttpGet]
-        public string Get()
+        public IEnumerable<Cabin> Get()
         {
             var db = new DataManager();
             var cabins = db.Load();
-            return JsonConvert.SerializeObject(cabins);
+            return cabins;
         }
 
         // GET: api/Cabin/5
@@ -30,8 +30,10 @@ namespace vuets.Controllers
 
         // POST: api/Cabin
         [HttpPost]
-        public void Post([FromBody]string value)
+        public void Post([FromBody]Cabin value)
         {
+            var db = new DataManager();
+            db.Save(value);
         }
 
         // PUT: api/Cabin/5
