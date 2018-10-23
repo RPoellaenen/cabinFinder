@@ -32,10 +32,11 @@ namespace vuets.Controllers
 
         // POST: api/Cabin
         [HttpPost]
-        public void Post([FromBody]Cabin value)
+        public void Post([FromBody]Cabin cabin)
         {
+            cabin.ID = new Guid();
             var db = new DataManager();
-            db.Save(value);
+            db.Save(cabin);
         }
 
         // PUT: api/Cabin/5
