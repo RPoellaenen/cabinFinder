@@ -9,3 +9,14 @@ C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.AssemblyInfoInputs.cache
 C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.AssemblyInfo.cs
 C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.dll
 C:\Koulutus\Vue\vuets\obj\Debug\netcoreapp2.0\vuets.pdb
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\bin\Debug\netcoreapp2.0\vuets.deps.json
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\bin\Debug\netcoreapp2.0\vuets.runtimeconfig.json
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\bin\Debug\netcoreapp2.0\vuets.runtimeconfig.dev.json
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\bin\Debug\netcoreapp2.0\vuets.dll
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\bin\Debug\netcoreapp2.0\vuets.pdb
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\obj\Debug\netcoreapp2.0\vuets.csprojAssemblyReference.cache
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\obj\Debug\netcoreapp2.0\vuets.csproj.CoreCompileInputs.cache
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\obj\Debug\netcoreapp2.0\vuets.AssemblyInfoInputs.cache
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\obj\Debug\netcoreapp2.0\vuets.AssemblyInfo.cs
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\obj\Debug\netcoreapp2.0\vuets.dll
+C:\Users\terhi.miettinen\OneDrive - Innofactor Plc\Asiakaskansiot\MVVM\cabinFinder\obj\Debug\netcoreapp2.0\vuets.pdb
