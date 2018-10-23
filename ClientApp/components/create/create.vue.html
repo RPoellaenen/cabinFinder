@@ -1,0 +1,25 @@
+<template>
+    <div>
+        <form>
+            <label for="cottageName">
+                Name for the cottage
+            </label>
+            <input id="cottageName" type="text" />
+
+            <label for="cottageLocation">
+                Location of the cottage
+            </label>
+            <input id="cottageLocation" type="text" />
+
+            <label for="cottageSize">
+                Size of the cottage
+            </label>
+            <input id="cottageSize" type="number" />
+
+        </form>
+
+        <button @click="createCabin">Add Cottage</button>
+    </div>
+</template>
+
+<script src="./create.ts"></script>
