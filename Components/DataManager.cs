@@ -30,5 +30,11 @@ namespace vuets
 
             return cabins;
         }
+
+        public Cabin Load(Guid id) {
+            var text = File.ReadAllText(dbFolder + id);
+            var cabin = JsonConvert.DeserializeObject<Cabin>(text);
+            return cabin;
+        }
     }
 }

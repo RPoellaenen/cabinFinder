@@ -23,9 +23,11 @@ namespace vuets.Controllers
 
         // GET: api/Cabin/5
         [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        public Cabin Get(Guid id)
         {
-            return "value";
+            var db = new DataManager();
+            var cabin = db.Load(id);
+            return cabin;
         }
 
         // POST: api/Cabin
