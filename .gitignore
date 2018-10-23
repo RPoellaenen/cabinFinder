@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+obj/vuets.csproj.nuget.g.props
+obj/vuets.csproj.nuget.cache
+obj/project.assets.json
+obj/Debug/netcoreapp2.0/vuets.pdb
+obj/Debug/netcoreapp2.0/vuets.dll
+obj/Debug/netcoreapp2.0/vuets.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp2.0/vuets.assets.cache
+bin/Debug/netcoreapp2.0/vuets.pdb
+bin/Debug/netcoreapp2.0/vuets.dll
